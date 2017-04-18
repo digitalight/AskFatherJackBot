@@ -1,0 +1,30 @@
+{
+  "name": "askfatherjackbot",
+  "version": "1.0.0",
+  "description": "A twitter bot that replies to users with various phrases from Father Jack",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalight/AskFatherJackBot.git"
+  },
+  "keywords": [
+    "Father",
+    "Ted",
+    "Jack",
+    "Twitter",
+    "Bot"
+  ],
+  "author": "digitalight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalight/AskFatherJackBot/issues"
+  },
+  "homepage": "https://github.com/digitalight/AskFatherJackBot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
